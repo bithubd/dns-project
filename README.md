@@ -5,8 +5,7 @@ What is github?
 
 Super quick:
 
-Github, is a versioning system. Users can contribute basically any digital piece of data, make changes, and github does a lot of the heavy lifting in keeping things in order, saved and synced. It also allows 'blame' to be attached to the user who makes changes, so you can see where contributions come from
-We're going to be using github to share any digital info we need to - docs, pcaps, Dockerfiles, etc.
+Github, is a versioning system. Users can contribute basically any digital piece of data, make changes, and github does a lot of the heavy lifting keeping things in order, saved and synced. It also allows 'blame' to be attached to the user who makes changes, so you can see where contributions come from. We're going to be using github to share any digital info we need to - docs, pcaps, Dockerfiles, etc.
 
 Getting Started with GitHub (GitHub Docs): https://docs.github.com/en/github
 
